@@ -1,0 +1,10 @@
+#navbar {
+    float: left;
+    top: 0;
+}
+
+@media (min-width: 450px) {
+    html {
+        font-size: 16px;
+    }
+}
